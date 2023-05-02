@@ -1,4 +1,4 @@
-package de.epochtraveler.template;
+package de.epochtraveler.epochcam;
 
 import de.epochtraveler.epochapi.CoreServer;
 import de.epochtraveler.epochapi.modules.Module;
