@@ -19,6 +19,6 @@ public interface CameraBuilder {
     /**
      * Saves the current camera
      */
-    void save();
+    Camera save();
 
 }
