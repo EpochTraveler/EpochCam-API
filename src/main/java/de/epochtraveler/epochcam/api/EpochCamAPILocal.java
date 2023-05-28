@@ -10,4 +10,11 @@ public interface EpochCamAPILocal {
      */
     CameraBuilder createCamera();
 
+    /**
+     * Get the camera object from the ID
+     * @param id Camera-ID
+     * @return Camera
+     */
+    Camera getCamera(String id);
+
 }
