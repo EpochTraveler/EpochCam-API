@@ -8,7 +8,7 @@ public interface CameraBuilder {
     /**
      * Set the camera-id
      */
-    CameraBuilder setCameraId();
+    CameraBuilder setCameraId(String id);
 
     /**
      * Add a new camera point

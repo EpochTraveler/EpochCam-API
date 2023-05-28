@@ -5,7 +5,7 @@ import de.epochtraveler.epochcam.api.builder.CameraBuilder;
 
 @API(
         name = "EpochCam-API",
-        version = "1.0.3"
+        version = "1.0.4"
 )
 public class EpochCamAPI {
 
