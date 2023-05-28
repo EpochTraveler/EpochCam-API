@@ -1,7 +1,12 @@
 package de.epochtraveler.epochcam.api;
 
+import de.epochtraveler.epochapi.api.API;
 import de.epochtraveler.epochcam.api.builder.CameraBuilder;
 
+@API(
+        name = "EpochCam-API",
+        version = "1.0.2"
+)
 public class EpochCamAPI {
 
     private static EpochCamAPILocal apiLocal;
